@@ -44,19 +44,29 @@ Boy Scout Law:
 - Clean
 - Reverent
 
-## Trust
+## Trustworthy
 
+## Loyal
 
-## My role @ [Company]
+## Helpful
 
+## Friendly
 
-## My management style
+## Courteous
 
+## Kind 
 
-## My assumptions
+## Obedient
 
+## Cheerful 
 
-## Career development
+## Thrifty
 
+## Brave 
 
-## Effective Communication with Me
+## Clean 
+
+## Reverent
+
+## Helpful
+
