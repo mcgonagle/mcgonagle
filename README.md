@@ -2,7 +2,7 @@ This document is work in progress, it's creation has helped me identify and refi
 
 ## Personal
 
-- Husband
+- Husband, Brother, Son, Son-in-Law
 - Parent to a tabby cat
 - Community Organizer
   -  [https://www.meetup.com/spinnaker-boston/](https://www.meetup.com/spinnaker-boston/), [https://www.meetup.com/Boston-Jenkins-Area-Meetup/](https://www.meetup.com/Boston-Jenkins-Area-Meetup/)
