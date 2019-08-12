@@ -45,17 +45,21 @@ Boy Scout Law:
 - Reverent
 
 ## Trustworthy
-
+Thomas is very trustworthy and honest. 
 ## Loyal
+Thomas is extreemely loyal. There is basically nothing he wouldn't do for his friends and family. 
 
 ## Helpful
+Thomas has a disabled sister. He was raised to help people. It was  major part of his up bringing. 
 
 ## Friendly
+Thomas was voted "friendliest" throughout junior and high school. 
 
 ## Courteous
+Thomas strives to be as polite as possible. 
 
 ## Kind 
-
+Thomas considers kindness to be a virtue and strives to be as kind as possible. 
 ## Obedient
 
 ## Cheerful 
