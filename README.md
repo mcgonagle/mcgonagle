@@ -7,6 +7,7 @@ This document is work in progress, it's creation has helped me identify and refi
 - Community Organizer
   -  [https://www.meetup.com/spinnaker-boston/](https://www.meetup.com/spinnaker-boston/), [https://www.meetup.com/Boston-Jenkins-Area-Meetup/](https://www.meetup.com/Boston-Jenkins-Area-Meetup/)
 - Swimmer/Lifeguard
+- Search and Rescue Team Member
 - Jiu Jitsu and Freestyle Wrestler
 - Played American Football for 8 years
 - Life Scout in BSA
