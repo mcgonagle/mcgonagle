@@ -11,6 +11,10 @@ This document is work in progress, it's creation has helped me identify and refi
 - Jiu Jitsu and Freestyle Wrestler
 - Played American Football for 8 years
 - Life Scout in BSA
+- Music Lover, Listened to 3 months of Pandora Radio in 2018 
+- Art Lover, Frequent museum patron
+- Volunteer, St Vincent de Paul - Knights of Columbus
+- Active in Church
 
 ## Professional
 Since childhood, Thomas has prioritized and emphasized human service and has always had a genuine passion for technology. Thomas is adept at recognizing and personally investing in open source market-leading platforms. He uses this insight and his genuine desire for service to help his customers with their most difficult continuous delivery problems.
