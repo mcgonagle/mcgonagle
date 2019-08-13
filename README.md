@@ -15,6 +15,7 @@ This document is work in progress, it's creation has helped me identify and refi
 - Played American Football for 8 years
 - Life Scout in BSA
 - Music Lover, In the 95% of Pandora listeners 
+- Movie Buff
 - Art Lover, Frequent museum patron
 - Animal Lover
 - Disability Activist
