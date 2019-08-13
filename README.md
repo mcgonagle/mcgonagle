@@ -14,7 +14,7 @@ This document is work in progress, it's creation has helped me identify and refi
 - Jiu Jitsu and Freestyle Wrestler
 - Played American Football for 8 years
 - Life Scout in BSA
-- Music Lover, Listened to 3 months of Pandora Radio in 2018 
+- Music Lover, In the 95% of Pandora listeners 
 - Art Lover, Frequent museum patron
 - Animal Lover
 - Disability Activist
