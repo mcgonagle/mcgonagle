@@ -39,7 +39,7 @@ Thomas is a disability awareness and activist. He has lead special interest grou
 ## My values 
 Thomas' values were heavily influenced by his experience growing up playing sports and participating in the Boy Scouts. Thomas strives to be the very best teammate he can be, and to live by the Scout Law as an adult. 
 
-A Great Teammate: 
+###A Great Teammate: 
 - Gives Relentless Effort
 - Is Unselfish
 - Is Honest
@@ -52,7 +52,7 @@ A Great Teammate:
 - Is Resilient
 - Takes Responsibility
 
-Boy Scout Law:
+###Boy Scout Law:
 - Trustworthy - Thomas is very trustworthy and honest. 
 - Loyal - Thomas is extremely loyal. There is basically nothing he wouldn't do for his friends and family. 
 - Helpful - Thomas has a disabled sister. He was raised to help people. It was a major part of his upbringing. 
