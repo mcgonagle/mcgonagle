@@ -64,4 +64,4 @@ Boy Scout Law:
 - Thrifty
 - Brave
 - Clean
-- Reverent
+- Reverent - Thomas' favorite prayer is Joshua 1:9 - *Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go". 
