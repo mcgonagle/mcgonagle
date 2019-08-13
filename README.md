@@ -25,11 +25,17 @@ This document is work in progress, it's creation has helped me identify and refi
 ## Elevator Pitch
 Since childhood, Thomas has prioritized and emphasized human service and has always had a genuine passion for technology. Thomas is adept at recognizing and personally investing in open source market-leading platforms. He uses this insight and his genuine desire for service to help his customers with their most difficult continuous delivery problems.
 
+## What's Most Important to Thomas
+Friends and Family
+
 ## Preparedness
  Thomas' personal slogan is *In Omnia Paratus* which means prepared in all things, or "ready for anything". Being organized and ready for anything makes him most comfortable and ready to take on the world. One way this manifests itself is he is a mobile productivity nerd. He carries a large backpack and a small daypack full of everything he needs to get the job done. What ever that job is. It also manifests itself through his need to be prepared for meetings and client engagements. 
 
 ## Productivity
 Tom is a productivity buff, generally he wakes early and spends a considerable part of each morning getting organized. This is not to say that organization comes easily to Thomas. He has to work on it every day, but has a very good workflow, he would be happy to share with anyone. 
+
+## Life Long Learner
+Thomas strives to be a life long learner. Although he feels like he is slowing down. 
 
 ## Military Family
   Thomas comes from a very military family and this has definitely shaped him. His family has fought and served in every war going back to the [revolutionary war](https://twitter.com/mcgonagle/status/1041192434816962560). He didn't serve, but considers his 7 years working for the FAA as a contractor to be his civil service to the country.  
