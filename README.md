@@ -6,6 +6,7 @@ This document is work in progress, it's creation has helped me identify and refi
 - Parent to a tabby cat
 - Community Organizer
   -  [https://www.meetup.com/spinnaker-boston/](https://www.meetup.com/spinnaker-boston/), [https://www.meetup.com/Boston-Jenkins-Area-Meetup/](https://www.meetup.com/Boston-Jenkins-Area-Meetup/)
+- Automation Practitioner
 - Swimmer/Lifeguard
 - Search and Rescue Team Member
 - Experienced Traveller
