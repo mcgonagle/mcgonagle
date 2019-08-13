@@ -31,7 +31,7 @@ Since childhood, Thomas has prioritized and emphasized human service and has alw
   Thomas comes from a very military family and this has definitely shaped him. His family has fought and served in every war going back to the [revolutionary war](https://twitter.com/mcgonagle/status/1041192434816962560). He didn't serve, but considers his 7 years working for the FAA as a contractor to be his civil service to the country.  
 
  ## Professionality 
- Boston is a very reserved business culture. Thomas went to a business focused school for undergraduate and graudate school, and the combination of growing up in Boston and coming up going to Bentley has shaped him. He is most comfortable being formal with customers. With that said, he does strive to create high quality relationships with customers. Thomas is proud to say he has become friends with several customers and sees them socially outside of work. 
+ Boston is a very reserved business culture. Thomas went to a business focused school for undergraduate and graduate school, and the combination of growing up in Boston and coming up going to Bentley has shaped him. He is most comfortable being formal with customers. With that said, he does strive to create high quality relationships with customers. Thomas is proud to say he has become friends with several customers and sees them socially outside of work. 
 
 ## disAbility
 Thomas is a disAbility awareness activist. He has lead special interest groups at previous employers promoting awareness of disAbility and strives to make every work place as equatable as possible. 
