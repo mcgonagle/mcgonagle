@@ -38,7 +38,7 @@ A Great Teammate:
 - Respect for Others
 - A Great Teammate is a Leader
 - Is Resilient
-- Takes Responsibilty
+- Takes Responsibility
 
 Boy Scout Law:
 - Trustworthy
@@ -57,10 +57,10 @@ Boy Scout Law:
 ## Trustworthy
 Thomas is very trustworthy and honest. 
 ## Loyal
-Thomas is extreemely loyal. There is basically nothing he wouldn't do for his friends and family. 
+Thomas is extremely loyal. There is basically nothing he wouldn't do for his friends and family. 
 
 ## Helpful
-Thomas has a disabled sister. He was raised to help people. It was  major part of his up bringing. 
+Thomas has a disabled sister. He was raised to help people. It was a major part of his upbringing. 
 
 ## Friendly
 Thomas was voted "friendliest" throughout junior and high school. 
