@@ -34,12 +34,12 @@ Since childhood, Thomas has prioritized and emphasized human service and has alw
  Boston is a very reserved business culture. Thomas went to a business focused school for undergraduate and graudate school, and the combination of growing up in Boston and coming up going to Bentley has shaped him. He is most comfortable being formal with customers. With that said, he does strive to create high quality relationships with customers. Thomas is proud to say he has become friends with several customers and sees them socially outside of work. 
 
 ## disAbility
-Thomas is a disability awareness and activist. He has lead special interest groups at previous employers promoting awareness of disAbility and strives to make every work place as equatable as possible. 
+Thomas is a disAbility awareness activist. He has lead special interest groups at previous employers promoting awareness of disAbility and strives to make every work place as equatable as possible. 
 
 ## My values 
 Thomas' values were heavily influenced by his experience growing up playing sports and participating in the Boy Scouts. Thomas strives to be the very best teammate he can be, and to live by the Scout Law as an adult. 
 
-###A Great Teammate: 
+### A Great Teammate: 
 - Gives Relentless Effort
 - Is Unselfish
 - Is Honest
@@ -52,7 +52,7 @@ Thomas' values were heavily influenced by his experience growing up playing spor
 - Is Resilient
 - Takes Responsibility
 
-###Boy Scout Law:
+### Boy Scout Law:
 - Trustworthy - Thomas is very trustworthy and honest. 
 - Loyal - Thomas is extremely loyal. There is basically nothing he wouldn't do for his friends and family. 
 - Helpful - Thomas has a disabled sister. He was raised to help people. It was a major part of his upbringing. 
