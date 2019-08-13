@@ -17,6 +17,7 @@ This document is work in progress, it's creation has helped me identify and refi
 - Music Lover, Listened to 3 months of Pandora Radio in 2018 
 - Art Lover, Frequent museum patron
 - Animal Lover
+- Disability Activist
 - Volunteer, St Vincent de Paul - MSPCA
 - Active in Church
 
