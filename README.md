@@ -16,7 +16,8 @@ This document is work in progress, it's creation has helped me identify and refi
 - Life Scout in BSA
 - Music Lover, Listened to 3 months of Pandora Radio in 2018 
 - Art Lover, Frequent museum patron
-- Volunteer, St Vincent de Paul - Knights of Columbus
+- Animal Lover
+- Volunteer, St Vincent de Paul - MSPCA
 - Active in Church
 
 ## Professional
