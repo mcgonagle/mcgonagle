@@ -21,7 +21,7 @@ This document is work in progress, it's creation has helped me identify and refi
 - Volunteer, St Vincent de Paul - MSPCA
 - Active in Church
 
-## Professional
+## Elevator Pitch
 Since childhood, Thomas has prioritized and emphasized human service and has always had a genuine passion for technology. Thomas is adept at recognizing and personally investing in open source market-leading platforms. He uses this insight and his genuine desire for service to help his customers with their most difficult continuous delivery problems.
 
 ## Preparedness
@@ -31,9 +31,7 @@ Since childhood, Thomas has prioritized and emphasized human service and has alw
  I come from a very military family and this has definitely shaped me. My family has fought and served in every war going back to the (revolutionary war)[https://twitter.com/mcgonagle/status/1041192434816962560]. I didn't serve, primarily because I wasn't drafted. I do consider my 7 years working for the FAA as a contractor to be my service to the country.  
 
  ## Professionality 
-
-
-
+ Boston is a very reserved business culture. I went to a business focused school for undergraduate and graudate school, and the combination of growing up in Boston and coming up going to Bentley has shaped me. I am most comfortable being formal with customers. With that said, I do strive to create high quality relationships with my customers. I am proud to say I have become friends with several customers and see them socially outside of work. 
 
 ## My values 
 My values were heavily influenced by my experience growing up playing sports and participating in the Boy Scouts. I strive to be the very best teammate I can be, and to live by the Scout Law as an adult. 
