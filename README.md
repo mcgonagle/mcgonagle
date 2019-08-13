@@ -9,6 +9,7 @@ This document is work in progress, it's creation has helped me identify and refi
 - Swimmer/Lifeguard
 - Search and Rescue Team Member
 - Experienced Traveller
+- History Buff
 - Jiu Jitsu and Freestyle Wrestler
 - Played American Football for 8 years
 - Life Scout in BSA
