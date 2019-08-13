@@ -24,6 +24,17 @@ This document is work in progress, it's creation has helped me identify and refi
 ## Professional
 Since childhood, Thomas has prioritized and emphasized human service and has always had a genuine passion for technology. Thomas is adept at recognizing and personally investing in open source market-leading platforms. He uses this insight and his genuine desire for service to help his customers with their most difficult continuous delivery problems.
 
+## Preparedness
+ My personal slogan is *In Omnia Paratus* which means prepared in all things, or "ready for anything". Being organized and ready for anything makes me comfortable and ready to take on the world. One way this manifests itself is I am a mobile productivity nerd. I carry a large backpack and a small daypack full of everything I need to get the job done. What ever that job is. It also manifests itself through my need to be prepared for meetings and client engagements. 
+
+ ## Military Family
+ I come from a very military family and this has definitely shaped me. My family has fought and served in every war going back to the (revolutionary war)[https://twitter.com/mcgonagle/status/1041192434816962560]. I didn't serve, primarily because I wasn't drafted. I do consider my 7 years working for the FAA as a contractor to be my service to the country.  
+
+ ## Professionality 
+
+
+
+
 ## My values 
 My values were heavily influenced by my experience growing up playing sports and participating in the Boy Scouts. I strive to be the very best teammate I can be, and to live by the Scout Law as an adult. 
 
