@@ -46,7 +46,7 @@ Thomas strives to be a life long learner. Although he feels like he is slowing d
 ## disAbility
 Thomas is a disAbility awareness activist. He has lead special interest groups at previous employers promoting awareness of disAbility and strives to make every work place as equatable as possible. 
 
-## My values 
+## Thomas' values 
 Thomas' values were heavily influenced by his experience growing up playing sports and participating in the Boy Scouts. Thomas strives to be the very best teammate he can be, and to live by the Scout Law as an adult. 
 
 ### A Great Teammate: 
