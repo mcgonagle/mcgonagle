@@ -32,7 +32,7 @@ Friends and Family
  Thomas' personal slogan is *In Omnia Paratus* which means prepared in all things, or "ready for anything". Being organized and ready for anything makes him most comfortable and ready to take on the world. One way this manifests itself is he is a mobile productivity nerd. He carries a large backpack and a small daypack full of everything he needs to get the job done. What ever that job is. It also manifests itself through his need to be prepared for meetings and client engagements. 
 
 ## Productivity
-Tom is a productivity buff, generally he wakes early and spends a considerable part of each morning getting organized. This is not to say that organization comes easily to Thomas. He has to work on it every day, but has a very good workflow, he would be happy to share with anyone. 
+Thomas is a productivity buff, generally he wakes early and spends a considerable part of each morning getting organized. This is not to say that organization comes easily to Thomas. He has to work on it every day, but has a very good workflow, he would be happy to share with anyone. 
 
 ## Life Long Learner
 Thomas strives to be a life long learner. Although he feels like he is slowing down. 
