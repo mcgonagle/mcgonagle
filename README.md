@@ -19,7 +19,7 @@ This document is a work in progress; it's creation has helped me identify and re
 - Art Lover and, Frequent Museum Patron
 - Animal Lover
 - Disability Activist
-- Volunteer at St Vincent de Paul - MSPCA
+- Volunteer at St Vincent de Paul - MSPCA - Knights of Columbus
 - Active in Church
 
 ## Elevator Pitch
