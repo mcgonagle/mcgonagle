@@ -38,7 +38,7 @@ Thomas is a productivity buff, generally he wakes early and spends a considerabl
 Thomas strives to be a lifelong learner. Although he feels like he is slowing down.
 
 ## Teacher/Trainer
-Thomas' maternal grandfather was a high school history teacher for 35 years. He always said that the best teaching he encountered was in the Army, where the "told you what they were going to teach you, taught you, and then test you". Thomas brings this approach to his trainings. He also is a firm beliver in the socratic method. His personal style refined while teaching junior college computer engineering courses for three years is to ask a lot of questions and hopefully spark lots of discussion. 
+Thomas' maternal grandfather was a high school history teacher for 35 years. He always said that the best teaching he encountered was in the Army, where they "told you what they were going to teach you, taught you, and then tested you". Thomas brings this approach to his trainings. He also is a firm beliver in the socratic method. His personal style refined while teaching junior college computer engineering courses for three years is to ask a lot of questions and hopefully spark lots of discussion. 
 
 ## Military Family
   Thomas comes from a very military family and this has definitely shaped him. His family has fought and served in every war going back to the [revolutionary war](https://twitter.com/mcgonagle/status/1041192434816962560). He didn't serve, but considers his 7 years working for the FAA as a contractor to be his civil service to the country.  
