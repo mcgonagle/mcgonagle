@@ -28,6 +28,20 @@ Since childhood, Thomas has prioritized and emphasized human service and has alw
 ## What's Most Important to Thomas
 Friends and Family
 
+## Brahmavihara
+Thomas has many tatoos that are important to him, but one that is literally close to his heart is the Brahmavihara. 
+Practicing the Brahmavihara causes the practioner to be reborn into the “Brahma realm,” radiating:
+
+* Loving-kindness
+* Compassion
+* Empathetic joy
+* Equanimity
+
+A blog article Thomas wrote on the Brahmavihara and DevOps can be found [here](https://www.linkedin.com/pulse/bramavihara-four-immeasurables-devops-thomas-a-mcgonagle/). 
+
+## Tribalism
+Thomas' grandfather and mother were union leaders and Armory's focus on tribalism is very appealing to him as it conjures up a sense of brotherhood/sisterhood. 
+
 ## Preparedness
  Thomas' personal slogan is *In Omnia Paratus* which means prepared in all things, or "ready for anything". Being organized and ready for anything makes him most comfortable and ready to take on the world. One way this manifests itself is as his being a mobile productivity nerd. He carries a large backpack and a small daypack full of everything he needs to get the job done whatever that job is. It also manifests itself as his need to be prepared for meetings and client engagements. 
 
