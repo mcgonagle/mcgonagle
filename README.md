@@ -42,7 +42,7 @@ A blog article Thomas wrote on the Brahmavihara and DevOps can be found [here](h
 ## Favorite Poem
 [Invictus](https://en.wikipedia.org/wiki/Invictus)
 
-## Leadership Style
+## Leadership Brand
 My [super power](https://drodio.com/what-is-your-leadership-brand/) is *invincibility*. 
 
 ## Tribalism
