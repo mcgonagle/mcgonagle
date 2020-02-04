@@ -39,6 +39,12 @@ Practicing the Brahmavihara causes the practioner to be reborn into the “Brahm
 
 A blog article Thomas wrote on the Brahmavihara and DevOps can be found [here](https://www.linkedin.com/pulse/bramavihara-four-immeasurables-devops-thomas-a-mcgonagle/). 
 
+## Favorite Poem
+[Invictus](https://en.wikipedia.org/wiki/Invictus)
+
+## Leadership Style
+My [super power](https://drodio.com/what-is-your-leadership-brand/) is *invincibility*. 
+
 ## Tribalism
 Thomas' grandfather and mother were union leaders and Armory's focus on tribalism is very appealing to him as it conjures up a sense of brotherhood/sisterhood. 
 
