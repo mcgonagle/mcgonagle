@@ -9,7 +9,7 @@ This document is a work in progress; it's creation has helped me identify and re
 - Automation Buff
 - Swimmer/Lifeguard
 - Search and Rescue Team Member
-- Experienced Traveler
+- Experienced Traveler and Flyer
 - History Buff
 - Jiu Jitsu and Freestyle Wrestler
 - Played American Football for 8 years
