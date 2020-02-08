@@ -43,7 +43,7 @@ A blog article Thomas wrote on the Brahmavihara and DevOps can be found [here](h
 [Invictus](https://en.wikipedia.org/wiki/Invictus)
 
 ## Leadership Brand
-My [super power](https://drodio.com/what-is-your-leadership-brand/) is *invincibility*. 
+Thomas' [super power](https://drodio.com/what-is-your-leadership-brand/) is *invincibility*. 
 
 ## Tribalism
 Thomas' grandfather and mother were union leaders and Armory's focus on tribalism is very appealing to him as it conjures up a sense of brotherhood/sisterhood. 
