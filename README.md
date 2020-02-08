@@ -69,6 +69,9 @@ Thomas' maternal grandfather was a high school history teacher for 35 years. He 
 ## disAbility
 Thomas is a disAbility awareness activist. He has lead special interest groups at previous employers promoting awareness of disAbility and strives to make every work place as equatable as possible. 
 
+## Guiding Light/Northstar
+The strong have to carry the weak.
+
 ## Thomas' values 
 Thomas' values were heavily influenced by his experience growing up playing sports and participating in the Boy Scouts. Thomas strives to be the very best teammate he can be, and to live by the Scout Law as an adult. 
 
