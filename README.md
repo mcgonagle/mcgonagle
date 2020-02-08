@@ -97,4 +97,4 @@ Thomas' values were heavily influenced by his experience growing up playing spor
 - Thrifty
 - Brave
 - Clean
-- Reverent - Thomas' favorite prayer is Joshua 1:9 - "*Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go*". 
+- Reverent - Thomas' favorite prayer is Joshua 1:9 - "*Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go*". Thomas' patron saint is Joseph of Cupertino - The patron saint of flyers and air travellers.  
