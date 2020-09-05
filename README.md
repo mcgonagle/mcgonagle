@@ -26,6 +26,9 @@ This document is a work in progress; it's creation has helped me identify and re
 ## Elevator Pitch
 Since childhood, Thomas has prioritized and emphasized human service and has always had a genuine passion for technology. Thomas is adept at recognizing and personally investing in open source market-leading platforms. He uses his insight and  genuine desire for service to help his customers with their most difficult continuous delivery problems.
 
+## Guiding Light/Northstar
+The strong have to carry the weak.
+
 ## What's Most Important to Thomas
 Friends and Family
 
@@ -66,9 +69,6 @@ Thomas' maternal grandfather was a high school history teacher for 35 years. He 
 
 ## disAbility
 Thomas is a disAbility awareness activist. He has lead special interest groups at previous employers promoting awareness of disAbility and strives to make every work place as equatable as possible. 
-
-## Guiding Light/Northstar
-The strong have to carry the weak.
 
 ## Thomas' values 
 Thomas' values were heavily influenced by his experience growing up playing sports and participating in the Boy Scouts. Thomas strives to be the very best teammate he can be, and to live by the Scout Law as an adult. 
