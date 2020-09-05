@@ -45,9 +45,6 @@ A blog article Thomas wrote on the Brahmavihara and DevOps can be found [here](h
 ## Leadership Brand
 Thomas' [super power](https://drodio.com/what-is-your-leadership-brand/) is *invincibility*. 
 
-## Tribalism
-Thomas' grandfather and mother were union leaders and Armory's focus on tribalism is very appealing to him as it conjures up a sense of brotherhood/sisterhood. 
-
 ## Preparedness
  Thomas' personal slogan is *In Omnia Paratus* which means prepared in all things, or "ready for anything". Being organized and ready for anything makes him most comfortable and ready to take on the world. One way this manifests itself is as his being a mobile productivity nerd. He carries a large backpack and a small daypack full of everything he needs to get the job done whatever that job is. It also manifests itself as his need to be prepared for meetings and client engagements. 
 
