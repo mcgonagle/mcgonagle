@@ -94,7 +94,7 @@ Thomas' values were heavily influenced by his experience growing up playing spor
 - Courteous - Thomas strives to be as polite as possible. 
 - Kind - Thomas considers kindness to be a virtue and strives to be as kind as possible. 
 - Obedient
-- Cheerful
+- Cheerful - Thomas Strives to be a cheerful individual.
 - Thrifty
 - Brave
 - Clean
