@@ -67,8 +67,8 @@ Thomas' maternal grandfather was a high school history teacher for 35 years. He 
 ## Professionality 
  Boston is a very reserved business culture. Thomas went to a business-focused school for undergraduate and graduate school, and the combination of growing up in Boston and coming up going to Bentley has shaped him. He is most comfortable being formal with customers. With that said, he is certainly capable of creating high quality relationships with customers. Thomas is proud to say that he has become friends with several customers and sees them socially outside of work. 
 
-## disAbility
-Thomas is a disAbility awareness activist. He has lead special interest groups at previous employers promoting awareness of disAbility and strives to make every work place as equatable as possible. 
+## disAbility and Burnout
+Thomas is a disAbility and Burnout awareness activist. He has lead special interest groups at previous employers promoting awareness of disAbility and strives to make every work place as equatable as possible. Thomas co-hosts a peer support talk show on Burnout for the CNCF community on Thursdays at 12PM ET. 
 
 ## Thomas' values 
 Thomas' values were heavily influenced by his experience growing up playing sports and participating in the Boy Scouts. Thomas strives to be the very best teammate he can be, and to live by the Scout Law as an adult. 
