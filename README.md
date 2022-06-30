@@ -5,7 +5,7 @@ This document is a work in progress; it's creation has helped me identify and re
 ## Personal
 
 - Husband, Father, Brother, Son, Son-in-Law
-  - My children Lilly and Anderson are my greatest source of pride and joy. Their four [family crests](heraldry.md) are for the surnames [McGonagle](kids_crests/mcgonagle.jpeg), [Greene](kids_crests/greene.jpeg), [Philbin](kids_crests/philbin.jpeg) and [Kilcoyne](kids_crests/kilcoyne.jpeg).
+  - My children Lilly and Anderson are my greatest source of pride and joy. Their four [family crests](HERALDRY.md) are for the surnames [McGonagle](kids_crests/mcgonagle.jpeg), [Greene](kids_crests/greene.jpeg), [Philbin](kids_crests/philbin.jpeg) and [Kilcoyne](kids_crests/kilcoyne.jpeg).
 - Parent to a baby girl and baby boy
 - Pet parent to a tabby cat
 - Community Organizer
