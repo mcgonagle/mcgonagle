@@ -2,6 +2,12 @@
 
 This document is a work in progress; it's creation has helped me identify and refine my thoughts and values. My hope is that it gives you some insights into how to work with me more effectively. This is not a replacement for actually getting to know each other. I very much value human interaction and look forward to connecting in person.
 
+## McGonagle Proninciation
+
+- [How to Pronounce McGonagle](https://www.howtopronounce.com/mcgonagle)
+- Phoentic spelling of McGonagle
+  - mcg-o-na-gle
+
 ## Personal
 
 - Husband, Father, Brother, Son, Son-in-Law
