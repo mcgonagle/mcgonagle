@@ -1,8 +1,11 @@
+# README
+
 This document is a work in progress; it's creation has helped me identify and refine my thoughts and values. My hope is that it gives you some insights into how to work with me more effectively. This is not a replacement for actually getting to know each other. I very much value human interaction and look forward to connecting in person.
 
 ## Personal
 
 - Husband, Father, Brother, Son, Son-in-Law
+  - My children Lilly and Anderson are my greatest source of pride and joy. Their four [family crests](heraldry.md) are for the surnames [McGonagle](kids_crests/mcgonagle.jpeg), [Greene](kids_crests/greene.jpeg), [Philbin](kids_crests/philbin.jpeg) and [Kilcoyne](kids_crests/kilcoyne.jpeg).
 - Parent to a baby girl and baby boy
 - Pet parent to a tabby cat
 - Community Organizer
