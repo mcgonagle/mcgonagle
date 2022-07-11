@@ -5,7 +5,7 @@ This document is a work in progress; it's creation has helped me identify and re
 ## daily.dev DevCard
 <a href="https://app.daily.dev/mcgonagle"><img src="https://api.daily.dev/devcards/1467cba681e24002b270406fe22227a2.png?r=wy7" width="400" alt="Thomas A. McGonagle's Dev Card"/></a>
 
-## mcgonagle's [ResumeSticker](https://resumesticker.com)
+## McGonagle's [ResumeSticker](https://resumesticker.com)
 ![mcgonagle](https://github.com/mcgonagle/ResumeSticker.com/blob/main/stickers/mcgonagle.jpg?raw=true "McGonagle's Resume Sticker")
 
 
