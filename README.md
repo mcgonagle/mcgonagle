@@ -2,9 +2,6 @@
 
 This document is a work in progress; it's creation has helped me identify and refine my thoughts and values. My hope is that it gives you some insights into how to work with me more effectively. This is not a replacement for actually getting to know each other. I very much value human interaction and look forward to connecting in person.
 
-## daily.dev DevCard
-<a href="https://app.daily.dev/mcgonagle"><img src="https://api.daily.dev/devcards/1467cba681e24002b270406fe22227a2.png?r=wy7" width="400" alt="Thomas A. McGonagle's Dev Card"/></a>
-
 ## McGonagle's [ResumeSticker](https://resumesticker.com)
 ![mcgonagle](https://github.com/mcgonagle/ResumeSticker.com/blob/main/stickers/mcgonagle.jpg?raw=true "McGonagle's Resume Sticker")
 
