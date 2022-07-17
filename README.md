@@ -4,10 +4,10 @@ This document is a work in progress; it's creation has helped me identify and re
 
 ## McGonagle's Octocat - The ![McGoctocat](https://github.com/mcgonagle/McGoctocat "McGoctocat")
 
-![mcgonagle](https://github.com/mcgonagle/McGoctocat/blob/main/octocat/mcgoctocat.png "McGonagle's Octocat Avatar")
+[!mcgonagle](https://github.com/mcgonagle/McGoctocat/blob/main/octocat/mcgoctocat.png "McGonagle's Octocat Avatar")
 
 ## McGonagle's [ResumeSticker](https://resumesticker.com)
-![mcgonagle](https://github.com/mcgonagle/ResumeSticker.com/blob/main/stickers/mcgonagle.jpg?raw=true "McGonagle's Resume Sticker")
+[!mcgonagle](https://github.com/mcgonagle/ResumeSticker.com/blob/main/stickers/mcgonagle.jpg?raw=true "McGonagle's Resume Sticker")
 
 
 ## McGonagle Proninciation
