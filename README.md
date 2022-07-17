@@ -4,7 +4,7 @@ This document is a work in progress; it's creation has helped me identify and re
 
 ## McGonagle's Octocat - The ![McGoctocat](https://github.com/mcgonagle/McGoctocat "McGoctocat")
 
-![mcgonagle](https://github.com/mcgonagle/McGoctocat/blob/main/octocat/mcgoctocat.png "McGonagle's Octocat Avatar")
+![mcgonagle](https://github.com/mcgonagle/McGoctocat/blob/main/octocat/mcgoctocat.png{ width=60%,height:60% } "McGonagle's Octocat Avatar")
 
 ---
 
