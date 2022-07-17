@@ -2,7 +2,7 @@
 
 This document is a work in progress; it's creation has helped me identify and refine my thoughts and values. My hope is that it gives you some insights into how to work with me more effectively. This is not a replacement for actually getting to know each other. I very much value human interaction and look forward to connecting in person.
 
-## McGonagle's Octocat - The McGoctocat
+## McGonagle's Octocat - The ![McGoctocat](https://github.com/mcgonagle/McGoctocat "McGoctocat")
 
 ![mcgonagle](https://github.com/mcgonagle/McGoctocat/blob/main/octocat/mcgoctocat.png "McGonagle's Octocat Avatar")
 
