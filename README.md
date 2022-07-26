@@ -67,7 +67,7 @@ Practicing the Brahmavihara causes the practioner to be reborn into the “Brahm
 A blog article Thomas wrote on the Brahmavihara and DevOps can be found [here](https://www.linkedin.com/pulse/bramavihara-four-immeasurables-devops-thomas-a-mcgonagle/). 
 
 ## Favorite Poem
-[Invictus](https://github.com/invicthomas)
+[Invictus](https://github.com/invicthomas) by [William Earnest Henley](https://en.wikipedia.org/wiki/Invictus#Background)
 
 ## Leadership Brand
 Thomas' [super power](https://drodio.com/what-is-your-leadership-brand/) is *invincibility*. 
