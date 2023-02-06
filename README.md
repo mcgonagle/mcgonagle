@@ -56,7 +56,7 @@ The strong have to carry the weak.
 Friends and Family
 
 ## Brahmavihara
-Thomas has many tatoos that are important to him, but one that is literally close to his heart is the Brahmavihara. 
+Thomas has many tattoos that are important to him, but one that is literally close to his heart is the Brahmavihara. 
 Practicing the Brahmavihara causes the practioner to be reborn into the “Brahma realm,” radiating:
 
 * Loving-kindness
@@ -91,7 +91,7 @@ Thomas' maternal grandfather [James L. Greene](https://twitter.com/mcgonagle/sta
  Boston is a very reserved business culture. Thomas went to a business-focused school for undergraduate and graduate school, and the combination of growing up in Boston and coming up going to Bentley has shaped him. He is most comfortable being formal with customers. With that said, he is certainly capable of creating high quality relationships with customers. Thomas is proud to say that he has become friends with several customers and sees them socially outside of work. 
 
 ## disAbility and Burnout
-Thomas is a disAbility and Burnout awareness activist. He has lead special interest groups at previous employers promoting awareness of disAbility and strives to make every work place as equatable as possible. Thomas co-hosts a peer support talk show on Burnout for the CNCF community on Thursdays at 12PM ET. 
+Thomas is a disAbility and Burnout awareness activist. He has lead special interest groups at previous employers promoting awareness of disAbility and strives to make every work place as equitable as possible. Thomas co-hosts a peer support talk show on Burnout for the CNCF community on Thursdays at 12PM ET. 
 
 ## Thomas' values 
 Thomas' values were heavily influenced by his experience growing up playing sports and participating in the Boy Scouts. Thomas strives to be the very best teammate he can be, and to live by the Scout Law as an adult. 
