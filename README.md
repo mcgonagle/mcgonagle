@@ -94,7 +94,7 @@ Thomas' maternal grandfather [James L. Greene](https://twitter.com/mcgonagle/sta
 Thomas is a disAbility and Burnout awareness activist. He has lead special interest groups at previous employers promoting awareness of disAbility and strives to make every work place as equitable as possible. Thomas co-hosts a peer support talk show on Burnout for the CNCF community on Thursdays at 12PM ET. 
 
 ## Thomas' values 
-Thomas' values were heavily influenced by his experience growing up playing sports and participating in the Boy Scouts. Thomas strives to be the very best teammate he can be, and to live by the Scout Law as an adult. 
+Thomas' values were heavily influenced by his experience growing up playing sports and participating in the Boy Scouts. Thomas strives to be the very best teammate he can be, and to live by the [Scout Law](https://www.scouting.org/about/faq/question10/) as an adult. 
 
 ### A Great Teammate: 
 - Gives Relentless Effort
