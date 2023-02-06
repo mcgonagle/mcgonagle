@@ -116,9 +116,9 @@ Thomas' values were heavily influenced by his experience growing up playing spor
 - Friendly - Thomas was voted "friendliest" throughout junior and high school. 
 - Courteous - Thomas strives to be as polite as possible. 
 - Kind - Thomas considers kindness to be a virtue and strives to be as kind as possible. 
-- Obedient
-- Cheerful - Thomas Strives to be a cheerful individual.
-- Thrifty
-- Brave
-- Clean
+- Obedient - Thomas is conscientious about following policies he regularly interacts with, e.g. rules around sox compliance.
+- Cheerful - Thomas strives to be a cheerful individual.
+- Thrifty - Thomas sees efficency of code and solutions as an aspect of thrift, and excels in this area of design and practice.
+- Brave - Thomas is not afraid to speak up and share an opinion in a group or individual setting.
+- Clean - Thomas applies this aspect of the Scout Law to his code, keeping functions independent and comments well organized.
 - Reverent - Thomas' favorite prayer is Joshua 1:9 - "*Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go*". Thomas' patron saint is Joseph of Cupertino - The patron saint of flyers and air travellers.  
