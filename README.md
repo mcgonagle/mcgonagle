@@ -79,7 +79,7 @@ Thomas' [super power](https://drodio.com/what-is-your-leadership-brand/) is *inv
 Thomas is a productivity buff, generally he wakes early and spends a considerable part of each morning getting organized. This is not to say that organization comes easily to Thomas. He has to work on it every day, but has a very good workflow he would be happy to share with anyone. 
 
 ## Life Long Learner
-Thomas strives to be a lifelong learner. Although he feels like he is slowing down.
+Thomas strives to be a lifelong learner. Although he sometimes feels like he is slowing down, this could be a function of the passage of time and increase in his body of knowledge over the years.
 
 ## Teacher/Trainer
 Thomas' maternal grandfather [James L. Greene](https://twitter.com/mcgonagle/status/1041195328756690950/photo/1) was a high school history teacher for 35 years. He always said that the best teaching he encountered was in the Army, where they "told you what they were going to teach you, taught you, and then tested you". Thomas brings this approach to his trainings. He also is a firm beliver in the socratic method. His personal style refined while teaching junior college computer engineering courses for three years is to ask a lot of questions and hopefully spark lots of discussion. 
