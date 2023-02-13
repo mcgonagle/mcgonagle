@@ -13,7 +13,7 @@ This document is a work in progress; it's creation has helped me identify and re
 
 ---
 
-## McGonagle Proninciation
+## McGonagle Pronunciation
 
 - [How to Pronounce McGonagle](https://www.howtopronounce.com/mcgonagle)
 - Phoentic spelling of McGonagle
@@ -87,7 +87,7 @@ Thomas' maternal grandfather [James L. Greene](https://twitter.com/mcgonagle/sta
 ## Military Family
   Thomas comes from a very military family and this has definitely shaped him. His family has fought and served in every war going back to the [revolutionary war](https://twitter.com/mcgonagle/status/1041192434816962560). He didn't serve, but considers his 7 years working for the FAA as a contractor to be his civil service to the country.  
 
-## Professionality 
+## Professionalism
  Boston is a very reserved business culture. Thomas went to a business-focused school for undergraduate and graduate school, and the combination of growing up in Boston and coming up going to Bentley has shaped him. He is most comfortable being formal with customers. With that said, he is certainly capable of creating high quality relationships with customers. Thomas is proud to say that he has become friends with several customers and sees them socially outside of work. 
 
 ## disAbility and Burnout
