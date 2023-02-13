@@ -13,7 +13,7 @@ This document is a work in progress; it's creation has helped me identify and re
 
 ---
 
-## McGonagle Proninciation
+## McGonagle Pronunciation
 
 - [How to Pronounce McGonagle](https://www.howtopronounce.com/mcgonagle)
 - Phoentic spelling of McGonagle
@@ -56,7 +56,7 @@ The strong have to carry the weak.
 Friends and Family
 
 ## Brahmavihara
-Thomas has many tatoos that are important to him, but one that is literally close to his heart is the Brahmavihara. 
+Thomas has many tattoos that are important to him, but one that is literally close to his heart is the Brahmavihara. 
 Practicing the Brahmavihara causes the practioner to be reborn into the “Brahma realm,” radiating:
 
 * Loving-kindness
@@ -79,7 +79,7 @@ Thomas' [super power](https://drodio.com/what-is-your-leadership-brand/) is *inv
 Thomas is a productivity buff, generally he wakes early and spends a considerable part of each morning getting organized. This is not to say that organization comes easily to Thomas. He has to work on it every day, but has a very good workflow he would be happy to share with anyone. 
 
 ## Life Long Learner
-Thomas strives to be a lifelong learner. Although he feels like he is slowing down.
+Thomas strives to be a lifelong learner. Although he sometimes feels like he is slowing down, this could be a function of the passage of time and increase in his body of knowledge over the years.
 
 ## Teacher/Trainer
 Thomas' maternal grandfather [James L. Greene](https://twitter.com/mcgonagle/status/1041195328756690950/photo/1) was a high school history teacher for 35 years. He always said that the best teaching he encountered was in the Army, where they "told you what they were going to teach you, taught you, and then tested you". Thomas brings this approach to his trainings. He also is a firm beliver in the socratic method. His personal style refined while teaching junior college computer engineering courses for three years is to ask a lot of questions and hopefully spark lots of discussion. 
@@ -87,14 +87,14 @@ Thomas' maternal grandfather [James L. Greene](https://twitter.com/mcgonagle/sta
 ## Military Family
   Thomas comes from a very military family and this has definitely shaped him. His family has fought and served in every war going back to the [revolutionary war](https://twitter.com/mcgonagle/status/1041192434816962560). He didn't serve, but considers his 7 years working for the FAA as a contractor to be his civil service to the country.  
 
-## Professionality 
+## Professionalism
  Boston is a very reserved business culture. Thomas went to a business-focused school for undergraduate and graduate school, and the combination of growing up in Boston and coming up going to Bentley has shaped him. He is most comfortable being formal with customers. With that said, he is certainly capable of creating high quality relationships with customers. Thomas is proud to say that he has become friends with several customers and sees them socially outside of work. 
 
 ## disAbility and Burnout
-Thomas is a disAbility and Burnout awareness activist. He has lead special interest groups at previous employers promoting awareness of disAbility and strives to make every work place as equatable as possible. Thomas co-hosts a peer support talk show on Burnout for the CNCF community on Thursdays at 12PM ET. 
+Thomas is a disAbility and Burnout awareness activist. He has lead special interest groups at previous employers promoting awareness of disAbility and strives to make every work place as equitable as possible. Thomas co-hosts a peer support talk show on Burnout for the CNCF community on Thursdays at 12PM ET. 
 
 ## Thomas' values 
-Thomas' values were heavily influenced by his experience growing up playing sports and participating in the Boy Scouts. Thomas strives to be the very best teammate he can be, and to live by the Scout Law as an adult. 
+Thomas' values were heavily influenced by his experience growing up playing sports and participating in the Boy Scouts. Thomas strives to be the very best teammate he can be, and to live by the [Scout Law](https://www.scouting.org/about/faq/question10/) as an adult. 
 
 ### A Great Teammate: 
 - Gives Relentless Effort
@@ -116,9 +116,9 @@ Thomas' values were heavily influenced by his experience growing up playing spor
 - Friendly - Thomas was voted "friendliest" throughout junior and high school. 
 - Courteous - Thomas strives to be as polite as possible. 
 - Kind - Thomas considers kindness to be a virtue and strives to be as kind as possible. 
-- Obedient
-- Cheerful - Thomas Strives to be a cheerful individual.
-- Thrifty
-- Brave
-- Clean
+- Obedient - Thomas is conscientious about following policies he regularly interacts with, e.g. rules around sox compliance.
+- Cheerful - Thomas strives to be a cheerful individual.
+- Thrifty - Thomas sees efficency of code and solutions as an aspect of thrift, and excels in this area of design and practice.
+- Brave - Thomas is not afraid to speak up and share an opinion in a group or individual setting.
+- Clean - Thomas applies this aspect of the Scout Law to his code, keeping functions independent and comments well organized.
 - Reverent - Thomas' favorite prayer is Joshua 1:9 - "*Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go*". Thomas' patron saint is Joseph of Cupertino - The patron saint of flyers and air travellers.  
