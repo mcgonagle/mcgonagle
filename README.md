@@ -116,9 +116,9 @@ Thomas' values were heavily influenced by his experience growing up playing spor
 - Friendly - Thomas was voted "friendliest" throughout junior and high school. 
 - Courteous - Thomas strives to be as polite as possible. 
 - Kind - Thomas considers kindness to be a virtue and strives to be as kind as possible. 
-- Obedient
+- Obedient - Thomas has never been insubordinate in his 25 year career.
 - Cheerful - Thomas Strives to be a cheerful individual.
-- Thrifty
-- Brave
-- Clean
+- Thrifty - Thomas saves and donates as much as he can.
+- Brave -Thomas is brave and has had to be in countless situations.
+- Clean -  Thomas is very clean and takes excellent care of his children and wife. 
 - Reverent - Thomas' favorite prayer is Joshua 1:9 - "*Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go*". Thomas' patron saint is Joseph of Cupertino - The patron saint of flyers and air travellers.  
